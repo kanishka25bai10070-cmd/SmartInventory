@@ -1,0 +1,17 @@
+# Compiled Java Class Files
+*.class
+
+# Build / Output Directories
+bin/
+out/
+build/
+
+# IntelliJ IDEA Metadata
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Operating System Files
+.DS_Store
+Thumbs.db
